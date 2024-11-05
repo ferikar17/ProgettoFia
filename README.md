@@ -13,8 +13,7 @@ installare, aggiornare e rimuovere facilmente le librerie necessarie. Conda perm
 isolati uno dall'altro. Un'altra piattaforma da avere sulla propria macchina per far funzionare il progetto è Ollama. Esso è un
 ambiente di sviluppo per modelli di linguaggio di grandi dimensioni (LLM). L'obiettivo di Ollama è fornire un framework
 user-friendly che consenta di interagire con LLM senza dipendere da infrastrutture cloud pesanti o costose, mantendendo il
-controllo sui propri dati. Ollama consente di scaricare ed eseguire LLM direttamente sul proprio computer, sfruttando le risorse
-hardware locali.
+controllo sui propri dati. Ollama consente di scaricare ed eseguire LLM direttamente sul proprio computer, sfruttando le risorse hardware locali. Nelle cartelle file e temp_file ci sono rispettivamente il file PDF e il file con il parsing, che viene creato automaticamente.
 Per l'esecuzione degli script è necessario scaricare diverse librerie
 - langchain
 - langchain_community

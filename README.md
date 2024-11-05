@@ -4,6 +4,7 @@ In questa repository è possibile accedere alle seguenti risorse:
 - Documentazione ufficiale del progetto
 - Codice
 - cartelle che ci servono per far funzionare il codice
+
 Per replicare il lavoro da me svolto bisogna scaricare le cartelle VectorStoreDB e lo script "ARG11.py". Inoltre, bisogna
 scaricare Anaconda che è una piattaforma open-surce pensata per semplificare l'uso di Python per le data science, il machine
 learning, l'intelligenza artificiale e lo sviluppo scientifico in generale. Include una serie di strumenti. librerie e ambienti
@@ -25,4 +26,5 @@ Per l'esecuzione degli script è necessario scaricare diverse librerie
 - Pillow
 - reportlab
 - tabula-py
+
 Per far partire il codice basta scrivere nel terminale il comando python ARG11.py e compilerà il codice per farlo partire
